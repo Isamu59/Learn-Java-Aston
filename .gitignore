@@ -69,3 +69,6 @@ coverage/
 **/target/
 **/out/
 **/log/
+Task_module1/.vscode/
+Task_module1/lib
+Task_module1/README.md
