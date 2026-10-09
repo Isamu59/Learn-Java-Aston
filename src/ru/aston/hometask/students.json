@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ivan Petrov",
+    "books": [
+      {"title": "Effective Java", "author": "Joshua Bloch", "pages": 416, "year": 2018},
+      {"title": "Clean Code", "author": "Robert Martin", "pages": 464, "year": 2008},
+      {"title": "Design Patterns", "author": "Gang of Four", "pages": 395, "year": 1994},
+      {"title": "Java Concurrency in Practice", "author": "Brian Goetz", "pages": 384, "year": 2006},
+      {"title": "Spring in Action", "author": "Craig Walls", "pages": 520, "year": 2020}
+    ]
+  },
+  {
+    "name": "Maria Smirnova",
+    "books": [
+      {"title": "Head First Java", "author": "Kathy Sierra", "pages": 688, "year": 2005},
+      {"title": "Thinking in Java", "author": "Bruce Eckel", "pages": 1150, "year": 2006},
+      {"title": "Java Performance", "author": "Scott Oaks", "pages": 480, "year": 2014},
+      {"title": "Modern Java in Action", "author": "Raoul-Gabriel Urma", "pages": 576, "year": 2018},
+      {"title": "Clean Architecture", "author": "Robert Martin", "pages": 432, "year": 2017}
+    ]
+  },
+  {
+    "name": "Alexey Volkov",
+    "books": [
+      {"title": "Effective Java", "author": "Joshua Bloch", "pages": 416, "year": 2018},
+      {"title": "Clean Code", "author": "Robert Martin", "pages": 464, "year": 2008},
+      {"title": "Refactoring", "author": "Martin Fowler", "pages": 448, "year": 2018},
+      {"title": "Domain-Driven Design", "author": "Eric Evans", "pages": 560, "year": 2003},
+      {"title": "Test Driven Development", "author": "Kent Beck", "pages": 240, "year": 2002}
+    ]
+  }
+]
