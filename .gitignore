@@ -65,7 +65,5 @@ coverage/
 .idea/runConfigurations/
 .idea/artifacts/
 
-# Project exclude
-**/target/
-**/out/
-**/log/
+# VS Code
+.vscode/
